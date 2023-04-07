@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:latihan03/pages/get_started_page.dart';
+import 'package:latihan03/pages/main_page.dart';
 
 class TampilanDua extends StatelessWidget {
   const TampilanDua({super.key});
@@ -108,7 +108,7 @@ class TampilanDua extends StatelessWidget {
                             Navigator.push(
                               context,
                               MaterialPageRoute(
-                                  builder: (context) => const GetStartedPage()),
+                                  builder: (context) => const MainPage()),
                             );
                           },
                           child: Text(

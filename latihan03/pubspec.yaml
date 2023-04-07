@@ -64,6 +64,16 @@ flutter:
     - assets/img-doc2.png
     - assets/img-doc1.png
     - assets/ic-star.png
+    - assets/img-music11.png
+    - assets/img-music12.png
+    - assets/img-music13.png
+    - assets/img-music14.png
+    - assets/img-music21.png
+    - assets/img-music22.png
+    - assets/img-music23.png
+    - assets/img-music31.png
+    - assets/img-music32.png
+    - assets/img-music33.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
